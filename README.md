@@ -14,12 +14,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonreyes9&show_icons=true&locale=en&layout=compact" alt="jasonreyes9" /></p> <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jasonreyes9&show_icons=true&locale=en" alt="jasonreyes9" /></p> <br/><br/><br/><br/><br/><br/><br/><br/>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonreyes9&" alt="jasonreyes9" /></p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonreyes9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=jasonreyes9&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jasonreyes9&theme=radical&hide_border=false)
 
 
 
