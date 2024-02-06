@@ -1,4 +1,5 @@
-<h3 align="left">Welcome to my profile!</h3>
+
+<h2> $\color{Blue}{\textsf{Welcome to my profile!}}$ </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonreyes9&label=Profile%20views&color=0e75b6&style=flat" alt="jasonreyes9"/> </p>
 
@@ -28,15 +29,4 @@
 
 
 
-
  
-
-
-
-
-
-
-
-
-
-
