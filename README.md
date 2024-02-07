@@ -1,5 +1,3 @@
- $\color{#0969DA}{\textsf{Welcome to my profile!}}$ </h2>
-
 <h3> $\textcolor{#0969DA}{Welcome\ to\ my\ Profile!}$ </h3>
 
 
