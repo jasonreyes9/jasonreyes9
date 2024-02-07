@@ -1,5 +1,8 @@
+ $\color{#0969DA}{\textsf{Welcome to my profile!}}$ </h2>
 
-<h2> $\color{#0969DA}{\textsf{Welcome to my profile!}}$ </h2>
+<h3> $\textcolor{#0969DA}{Welcome\ to\ my\ Profile!}$ </h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonreyes9&label=Profile%20views&color=0e75b6&style=flat" alt="jasonreyes9"/> </p>
 
